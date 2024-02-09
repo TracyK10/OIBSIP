@@ -26,3 +26,6 @@ The following external libraries are used in this project:
 - **FAQs**: Frequently asked questions are listed, addressing common inquiries regarding the grooming kits and their usage.
 - **Footer**: The footer contains contact information and links to Purrfect's social media profiles.
 
+
+## Screenshot
+![Screenshot 2024-02-09 110422](https://github.com/TracyK10/OIBSIP/assets/107494362/569f3a06-5d2a-43da-a5c3-b5005f074243)
