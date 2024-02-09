@@ -28,8 +28,7 @@ The `convert()` function is responsible for taking the input temperature and con
 The JavaScript code within the `convert()` function manages the temperature conversion process. It starts by retrieving the input temperature and selected unit from the form. Then, it verifies if the input is a valid number. Three functions (`fahrenheit()`, `celsius()`, and `kelvin()`) are defined to handle the conversions. Depending on the selected unit, the appropriate conversion function is called, and the result is displayed. If the unit is invalid or the input is not a number, an error message is shown. This JavaScript ensures accurate temperature conversion based on user input and provides feedback when needed.
 
 ## Screenshot
-![Screenshot 2024-02-09 110724](https://github.com/TracyK10/OIBSIP/assets/107494362/6a2d1ec6-7ca8-4652-8552-eeb78f482b9d)
+![Screenshot 2024-02-09 111140](https://github.com/TracyK10/OIBSIP/assets/107494362/6ee1c0b7-a195-4ece-8935-34014c6be8e4)
 
 ## Demo
-A live demo of this project can be found at 
-
+A live demo of this project can be found at
