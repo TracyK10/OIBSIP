@@ -1,0 +1,66 @@
+body{
+    background: linear-gradient(115deg, #000000, #444444);
+    color: blanchedalmond;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+}
+
+img{
+    max-width: 1000px;
+    max-height: 400px;
+    margin: auto;
+    background-repeat: no-repeat;
+}
+.bio{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 5% 8%;
+    text-align: justify;
+}
+.quote, .intro{
+    display: flex;
+    align-items: center;
+}
+
+h1{
+    font-family: Merriweather, serif;
+    font-size: 46px;
+}
+.title{
+    text-align: center;
+}
+@media screen and (max-width: 768px){
+    img{
+        max-width: 1000px;
+        max-height: 200px;
+    }
+    h1{
+        font-size: 32px;
+        text-align: center;
+    }
+    .bio{
+        padding: 5% 4%;
+    }
+}
+.line{
+    background-color: wheat;
+    width: 90%;
+    height: 1px;
+    border: none;
+    margin: 1rem auto;
+}
+
+.link a{
+    text-decoration: none;
+    color: blanchedalmond;
+}
+.link a:hover{
+    color: coral;
+    text-decoration: underline;
+}
+
+.link{
+    font-style: italic;
+    display: grid;
+    place-items: center;
+}
